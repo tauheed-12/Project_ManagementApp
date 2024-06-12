@@ -1,0 +1,11 @@
+.highlight-today {
+    background: aqua;
+    color: #000;
+    border-radius: 50%;
+}
+
+.highlight-due {
+    background: blue;
+    color: #fff;
+    border-radius: 50%;
+}
